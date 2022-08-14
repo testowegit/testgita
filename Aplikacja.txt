@@ -21,6 +21,3 @@ public void przypomnijHasło() {
     }
 
 
-    Hello World
-
-
